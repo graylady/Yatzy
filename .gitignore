@@ -1,3 +1,20 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @CamillaGustafsson Sign out
+0
+0 0 graylady/Yatzy
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+Yatzy/.gitignore
+c698fb4  18 minutes ago
+@CamillaGustafsson CamillaGustafsson Create .gitignore
+     
+489 lines (389 sloc)  7.49 KB
 
 # Created by https://www.gitignore.io/api/python,windows,visualstudio
 # Edit at https://www.gitignore.io/?templates=python,windows,visualstudio
@@ -486,3 +503,16 @@ ASALocalRun/
 .localhistory/
 
 # End of https://www.gitignore.io/api/python,windows,visualstudio
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
